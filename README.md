@@ -46,8 +46,6 @@ I build **scalable, high-performance web applications** with a focus on **clean 
 
 ## 🌐 Connect with Me  
 
-## 🌐 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/srmaurya/">
     <img src="./assets/icons/linkedin.svg" width="40" height="40"/>
@@ -56,4 +54,5 @@ I build **scalable, high-performance web applications** with a focus on **clean 
     <img src="./assets/icons/gmail.svg" width="40" height="40"/>
   </a>
 </p>
+
 
