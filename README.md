@@ -46,11 +46,14 @@ I build **scalable, high-performance web applications** with a focus on **clean 
 
 ## 🌐 Connect with Me  
 
-<p align="center" style="text-decoration:none;">
-  <a href="https://www.linkedin.com/in/srmaurya/" style="text-decoration:none;">
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/srmaurya/">
     <img src="./assets/icons/linkedin.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:mauryshailendra0@example.com" style="text-decoration:none;">
+  <a href="mailto:mauryshailendra0@example.com">
     <img src="./assets/icons/gmail.svg" width="40" height="40"/>
   </a>
 </p>
+
