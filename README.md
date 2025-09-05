@@ -15,8 +15,8 @@ I build **scalable, high-performance web applications** with a focus on **clean 
   <img src="./assets/icons/html5.svg" width="40" height="40"/>
   <img src="./assets/icons/css3.svg" width="40" height="40"/>
   <img src="./assets/icons/bootstrap.svg" width="40" height="40"/>
-  <img src="./assets/icons/materialui.svg" width="40" height="40"/>
   <img src="./assets/icons/figma.svg" width="40" height="40"/>
+  <img src="./assets/icons/graphql.svg" width="40" height="40"/>
   <img src="./assets/icons/git.svg" width="40" height="40"/>
   <img src="./assets/icons/github.svg" width="40" height="40"/>
 </p>
@@ -47,13 +47,10 @@ I build **scalable, high-performance web applications** with a focus on **clean 
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/srmaurya/">
     <img src="./assets/icons/linkedin.svg" width="40" height="40"/>
   </a>
-  <a href="https://vercel.com">
-    <img src="./assets/icons/website.svg" width="40" height="40"/>
-  </a>
-  <a href="mailto:example@example.com">
+  <a href="mailto:mauryshailendra0@example.com">
     <img src="./assets/icons/gmail.svg" width="40" height="40"/>
   </a>
 </p>
