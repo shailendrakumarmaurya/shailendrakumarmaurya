@@ -1,37 +1,72 @@
-# 👋 Hi, I’m Shailendrakumar Maurya  
+# Hi there 👋, I'm Shailendra Maurya
 
-💻 **Frontend Developer | Angular Specialist | UI/UX Enthusiast**  
+## Senior Software Engineer
 
-I build **scalable, high-performance web applications** with a focus on **clean architecture, responsive design, and great user experiences**.  
+I'm a Senior Software Engineer with **8+ years of professional engineering experience**, currently building enterprise applications at Accenture for Hitachi Energy's global PowerShop platform.
 
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="./assets/icons/angular.svg" width="40" height="40"/>
-  <img src="./assets/icons/typescript.svg" width="40" height="40"/>
-  <img src="./assets/icons/javascript.svg" width="40" height="40"/>
-  <img src="./assets/icons/html5.svg" width="40" height="40"/>
-  <img src="./assets/icons/css3.svg" width="40" height="40"/>
-  <img src="./assets/icons/bootstrap.svg" width="40" height="40"/>
-  <img src="./assets/icons/figma.svg" width="40" height="40"/>
-  <img src="./assets/icons/graphql.svg" width="40" height="40"/>
-  <img src="./assets/icons/git.svg" width="40" height="40"/>
-  <img src="./assets/icons/github.svg" width="40" height="40"/>
-</p>
+I specialize in designing and developing scalable enterprise applications using Angular and TypeScript. My work focuses on frontend architecture, application performance, API integrations, production support, and building maintainable software that delivers real business value.
 
 ---
 
-## 🌐 Connect with Me  
+## 🚀 Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/srmaurya/">
-    <img src="./assets/icons/linkedin.svg" width="40" height="40"/>
-  </a>
-  <a href="mailto:mauryshailendra0@gmail.com">
-    <img src="./assets/icons/gmail.svg" width="40" height="40"/>
-  </a>
-</p>
+### Frontend
+- Angular
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3 / SCSS
+- Angular Material
+- Bootstrap
 
+### State Management
+- NgRx
+- RxJS
 
+### APIs & Integration
+- GraphQL
+- REST APIs
+- Conga SDK
+
+### Backend
+- C#
+- PHP
+- MySQL
+
+### Tools & Platforms
+- Git
+- Azure DevOps
+- Visual Studio Code
+- Postman
+
+---
+
+## 💼 What I Do
+
+- Build scalable enterprise web applications
+- Design reusable and maintainable frontend architectures
+- Develop business workflows and API integrations
+- Optimize application performance and user experience
+- Investigate production issues and perform root cause analysis
+- Collaborate with cross-functional teams throughout the software development lifecycle
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- .NET
+- Cloud Technologies
+- AI-assisted Software Development
+
+---
+
+## 📌 Featured Projects
+
+I'm actively working on building production-quality projects focused on enterprise application development, frontend architecture, and scalable software engineering.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/srmaurya
